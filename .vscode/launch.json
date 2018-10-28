@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Javascript Function",
+      "type": "node",
+      "request": "launch",
+      "port": 5858,
+      "preLaunchTask": "runFunctionsHost"
+    }
+  ]
+}
